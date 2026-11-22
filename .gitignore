@@ -1,0 +1,9 @@
+# Dependencias y compilación del cliente
+node_modules/
+dist/
+.env
+
+# PocketBase: el ejecutable y los datos no se suben, se generan al arrancar
+server/pocketbase
+server/pocketbase.exe
+server/pb_data/
