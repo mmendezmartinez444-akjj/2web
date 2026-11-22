@@ -1,4 +1,4 @@
-# Taller — gestión de órdenes de reparación (versión Tablero)
+# Taller — gestión de órdenes de reparación 
 
 Aplicación para un taller que repara teléfonos, laptops y televisores. Sustituye la libreta: registra los equipos que llegan, sigue cada orden por sus etapas, guarda el presupuesto y deja un historial de todo lo que pasó.
 
